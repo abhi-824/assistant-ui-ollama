@@ -2,11 +2,8 @@ This is the [assistant-ui](https://github.com/Yonom/assistant-ui) starter projec
 
 ## Getting Started
 
-First, add your OpenAI API key to `.env.local` file:
+First server the ollama model through ollama serve. 
 
-```
-OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-```
 
 Then, run the development server:
 
